@@ -24,11 +24,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,tailwind,nodejs,express,mongodb,git,github,vercel" alt="Skills" />
   </a>
-</p>
-
----
-
-### Most Used Languages
+</p> <br />
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenttChenn&layout=compact&theme=radical&hide_border=true&title_color=f43f5e&text_color=94a3b8" alt="Vincent's Most Used Languages" />
