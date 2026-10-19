@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello! I'm Vincent Chen
-### Full-Stack Web Developer | MERN Stack & TypeScript 
+### Full-Stack Web Developer | MERN Stack & TypeScript
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vincentchenn.com-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vincentchenn.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vincent%20Chen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-chenn/)
