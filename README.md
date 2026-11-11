@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello! I'm Vincent Chen
+# Hello! I'm Vincent Chen 
 ### Full-Stack Web Developer | MERN Stack & TypeScript
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vincentchenn.com-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vincentchenn.com)
